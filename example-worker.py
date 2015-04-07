@@ -1,3 +1,5 @@
 #!/usr/bin/env python
 
-print "hello world"
+import requests
+
+requests.get('http://ahorseisa.horse/ofcourseofcourse.html')

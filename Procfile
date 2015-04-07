@@ -1,1 +1,1 @@
-worker: python ./example-worker.py
+cmd: python ./example-worker.py
